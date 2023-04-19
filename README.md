@@ -1,0 +1,4 @@
+# unc-system-salaries
+A simple project to analyze salaries for employees within the UNC System.
+
+The University of North Carolina (UNC) System is a public university system in the state of North Carolina in the United States. It was established in 1971 and is the oldest public university system in the country. The UNC System consists of 16 universities that offer undergraduate, graduate, and professional degree programs. The UNC System is known for its strong commitment to academic excellence, research, and community engagement. The system's universities have a wide range of academic programs, including liberal arts, engineering, business, medicine, law, and education, among others. In this project, I attempt to use Python libraries such as numpy, pandas, matplotlib, seaborn, and more to analyze this data and figure out basic trends that exist between data.
